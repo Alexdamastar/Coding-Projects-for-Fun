@@ -1,4 +1,9 @@
 import java.util.ArrayList;
+/*
+Code sorts a given arraylist from least to greatest, does this by creating a new arraylist and adding
+the minimum values into it until the old array is empty
+Alexander Lumala 11/28/24
+ */
 public class Main{
     public static void main(String[] args) {
         ArrayList<Integer> oldArray = new ArrayList<>();
