@@ -13,7 +13,7 @@ public class Main{
         oldArray.add(3);
         oldArray.add(2);
         oldArray.add(5);
-        int currentMinumum = oldArray.get(0);
+        int currentMinumum;
         int currentItem;
         int minIndex;
 
